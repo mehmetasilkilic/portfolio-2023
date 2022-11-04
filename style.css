@@ -99,10 +99,6 @@ nav .nav-section {
   justify-content: flex-start;
 }
 
-#nav-logo-section > a > i {
-  font-size: 2.5rem;
-}
-
 #nav-social-section > a > i {
   font-size: 1.3rem;
 }
@@ -345,11 +341,6 @@ main > article > .article-nav-section > .article-nav-button:nth-child(2) {
   nav .nav-section {
     border-left: none;
     padding: 1.5rem 1rem;
-  }
-
-  #nav-logo-section > a > i {
-    font-size: 1.5rem;
-    margin-left: 1rem;
   }
 
   #nav-mobile-section {
